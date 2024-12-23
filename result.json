@@ -1,0 +1,79 @@
+{
+    "memory_usage": {
+        "total_memory_usage_kb": 4880892,
+        "columns": [
+            {
+                "column_name": "date",
+                "memory_abs": 883595,
+                "memory_per": 18.1032,
+                "dtype": "object"
+            },
+            {
+                "column_name": "use_chip",
+                "memory_abs": 854460,
+                "memory_per": 17.5062,
+                "dtype": "object"
+            },
+            {
+                "column_name": "merchant_city",
+                "memory_abs": 748112,
+                "memory_per": 15.3274,
+                "dtype": "object"
+            },
+            {
+                "column_name": "amount",
+                "memory_abs": 714092,
+                "memory_per": 14.6304,
+                "dtype": "object"
+            },
+            {
+                "column_name": "merchant_state",
+                "memory_abs": 634129,
+                "memory_per": 12.9921,
+                "dtype": "object"
+            },
+            {
+                "column_name": "errors",
+                "memory_abs": 422786,
+                "memory_per": 8.6621,
+                "dtype": "object"
+            },
+            {
+                "column_name": "id",
+                "memory_abs": 103952,
+                "memory_per": 2.1298,
+                "dtype": "int64"
+            },
+            {
+                "column_name": "client_id",
+                "memory_abs": 103952,
+                "memory_per": 2.1298,
+                "dtype": "int64"
+            },
+            {
+                "column_name": "card_id",
+                "memory_abs": 103952,
+                "memory_per": 2.1298,
+                "dtype": "int64"
+            },
+            {
+                "column_name": "merchant_id",
+                "memory_abs": 103952,
+                "memory_per": 2.1298,
+                "dtype": "int64"
+            },
+            {
+                "column_name": "zip",
+                "memory_abs": 103952,
+                "memory_per": 2.1298,
+                "dtype": "float64"
+            },
+            {
+                "column_name": "mcc",
+                "memory_abs": 103952,
+                "memory_per": 2.1298,
+                "dtype": "int64"
+            }
+        ]
+    }
+}

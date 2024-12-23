@@ -1,0 +1,1 @@
+{"id": "uint32", "date": "category", "client_id": "uint16", "card_id": "uint16", "amount": "category", "use_chip": "category", "merchant_id": "uint32", "merchant_city": "category", "merchant_state": "category", "zip": "float32", "mcc": "uint16", "errors": "category"}
