@@ -1,7 +1,7 @@
 import numpy as np
 import  os
 
-matrix = np.load(r"C:\Users\ipavl\Учеба УРФУ\1 курс\1 семестр\ИД\Practice_2\86\second_task.npy")
+matrix = np.load(r"../86/second_task.npy")
 print(matrix)
 x = []
 y = []
