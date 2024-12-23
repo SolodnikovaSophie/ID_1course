@@ -1,10 +1,10 @@
 import pickle
 import json
 
-with open(r"C:\Users\ipavl\Учеба УРФУ\1 курс\1 семестр\ИД\Practice_2\86\fourth_task_products.json", "rb") as f:
+with open(r"../86/fourth_task_products.json", "rb") as f:
     products = pickle.load(f)
 
-with open(r"C:\Users\ipavl\Учеба УРФУ\1 курс\1 семестр\ИД\Practice_2\86\fourth_task_updates.json", "r", encoding="utf-8") as f:
+with open(r"../86/fourth_task_updates.json", "r", encoding="utf-8") as f:
     updates = json.load(f)
 
 product_map = {}
