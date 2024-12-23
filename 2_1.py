@@ -1,7 +1,7 @@
 import json
 import numpy as np
 
-matrix = np.load(r"C:\Users\ipavl\Учеба УРФУ\1 курс\1 семестр\ИД\Practice_2\86\first_task.npy")
+matrix = np.load(r"../86/first_task.npy")
 
 size = matrix.size
 
