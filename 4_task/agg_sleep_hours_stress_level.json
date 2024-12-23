@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "Low",
+        "max_sleep_hours": 10.0,
+        "min_sleep_hours": 6.0,
+        "avg_sleep_hours": 8.063973063973064
+    },
+    {
+        "_id": "High",
+        "max_sleep_hours": 10.0,
+        "min_sleep_hours": 5.0,
+        "avg_sleep_hours": 7.0464528668610305
+    },
+    {
+        "_id": "Moderate",
+        "max_sleep_hours": 10.0,
+        "min_sleep_hours": 6.0,
+        "avg_sleep_hours": 7.947626112759644
+    }
+]

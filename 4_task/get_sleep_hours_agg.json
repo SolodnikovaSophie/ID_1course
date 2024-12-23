@@ -1,0 +1,8 @@
+[
+    {
+        "_id": "result",
+        "max_hours_of_sleep_time": 10.0,
+        "min_hours_of_sleep_time": 5.0,
+        "avg_hours_of_sleep_time": 7.50125
+    }
+]

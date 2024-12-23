@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "Low",
+        "max_Physical_Activity": 12.4,
+        "min_Physical_Activity": 0.1,
+        "avg_Physical_Activity": 5.581818181818182
+    },
+    {
+        "_id": "Moderate",
+        "max_Physical_Activity": 11.0,
+        "min_Physical_Activity": 0.0,
+        "avg_Physical_Activity": 4.336795252225519
+    },
+    {
+        "_id": "High",
+        "max_Physical_Activity": 13.0,
+        "min_Physical_Activity": 0.0,
+        "avg_Physical_Activity": 3.960932944606414
+    }
+]
