@@ -2,7 +2,7 @@ from os import write
 
 # Читаем файл
 def read_file():
-    with open(r'C:\Users\ipavl\Учеба УРФУ\1 курс\1 семестр\ИД\86\first_task.txt', encoding="utf-8") as file:
+    with open(r'../86/first_task.txt', encoding="utf-8") as file:
         return file.readlines()
 
 # Разбиваем текст на слова и удаляем ненужные знаки припинания
