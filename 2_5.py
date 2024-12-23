@@ -7,7 +7,7 @@ import msgpack
 import os
 
 # Загрузим файл
-df = pd.read_csv(r"C:\Users\ipavl\Учеба УРФУ\1 курс\1 семестр\ИД\Practice_2\realtor-data.csv", sep = ",")
+df = pd.read_csv(r"../Practice_2/realtor-data.csv", sep = ",")
 print(df.head(6))
 print(f"Столбцы: {df.columns}")
 
