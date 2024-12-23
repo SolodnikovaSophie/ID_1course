@@ -6,7 +6,7 @@ def read_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return  json.load(f)
 
-products = read_json(r"C:\Users\ipavl\Учеба УРФУ\1 курс\1 семестр\ИД\Practice_2\86\third_task.json")
+products = read_json(r"../86/third_task.json")
 products_stat = {}
 
 for product in products:
